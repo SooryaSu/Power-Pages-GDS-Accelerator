@@ -1,0 +1,26 @@
+adx_attachfilelabel: ''
+adx_attachfilemaxsize: 
+adx_attachfilestoragelocation: 756150000
+adx_captcharequired: true
+adx_containername: ''
+adx_entityformid: a8db0d9b-67c3-4fc9-993a-d92ae80663c0
+adx_entityFormMetadatas:
+- &o0 []
+- *o0
+adx_entityname: feedback
+adx_entitypermissionsenabled: true
+adx_entitysourcetype: 
+adx_filecontent: 
+adx_formname: simple contact us form
+adx_hideformonsuccess: true
+adx_lcid: 1033
+adx_maximumnooffiles: 5
+adx_mode: 100000000
+adx_name: simple contact us form
+adx_onsuccess: 756150000
+adx_recordidquerystringparametername: 
+adx_redirecturl: 
+adx_redirectwebpage: 
+adx_showcaptchaforauthenticatedusers: true
+adx_storageaccountname: ''
+adx_successmessage: ''
