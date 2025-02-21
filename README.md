@@ -11,7 +11,7 @@ Refer to https://design-system.service.gov.uk/ for further information.
 ## Steps to Import the Site
 
 1. **Clone the Repository**
-   - git clone https://github.com/your-repo-url.git
+   - git clone https://github.com/SooryaSu/Power-Pages-GDS-Accelerator.git
    - cd your-repo-directory
 
 2. **Authenticate with Power Platform**
