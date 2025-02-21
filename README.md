@@ -26,5 +26,6 @@ Refer to https://design-system.service.gov.uk/ for further information.
 
 ## Troubleshooting
 If you encounter any issues during the import, refer to the Power Apps CLI documentation for detailed troubleshooting steps.
-Contributing
+
+## Contributing
 Feel free to open issues or submit pull requests if you have any improvements or suggestions.
