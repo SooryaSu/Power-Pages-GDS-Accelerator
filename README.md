@@ -1,4 +1,4 @@
-# Power Pages Site Import Instructions
+# Power Pages GDS Accelerator
 This repository contains the exported files of a Power Pages site. Follow the steps below to quickly set up a Power Pages project that is compliant with the GDS standards.
 
 Refer to https://design-system.service.gov.uk/ for further information.
