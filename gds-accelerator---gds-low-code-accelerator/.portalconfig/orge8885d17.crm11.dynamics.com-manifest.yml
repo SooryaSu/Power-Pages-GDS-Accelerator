@@ -457,7 +457,7 @@ adx_webpage:
   IsDeleted: false
 - RecordId: 9aa3ea31-45be-4217-8629-ed761d809f60
   DisplayName: Home
-  CheckSum: f3c0023f1bd81f299173dbb90e3950e139da441adff921980d0234b78a59c389
+  CheckSum: a35fec265aa9e909e7a0c726460d2a981d49d1e6e05f03964f33d59ce5d379e8
   IsDeleted: false
 - RecordId: a972c0df-0065-4aba-8183-3791d874dceb
   DisplayName: Page Not Found
@@ -581,7 +581,7 @@ adx_webtemplate:
   IsDeleted: false
 - RecordId: c7e464cb-a263-4d11-b819-73de81aa1333
   DisplayName: Footer
-  CheckSum: da91b172e3aa85834ba944aee6c136ea78d161d899cf84d56b2aa8feb2bd5b77
+  CheckSum: 57026d05c36d6b0145168b4ad3bec39f850616d1d15d62525bdae23e67f72c21
   IsDeleted: false
 - RecordId: d2db45d6-eb7a-4c10-bc1b-f26fee38eb30
   DisplayName: Pages Breadcrumb
