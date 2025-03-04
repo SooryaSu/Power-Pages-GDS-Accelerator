@@ -1,0 +1,28 @@
+{% manifest %}
+{
+    "type": "Functional",
+    "displayName": "Panel",
+    "description": "GDS styled banner",
+    "params": [
+        {
+            "id": "panelTitle",
+            "displayName": "Panel Title",
+            "description": "Text displayed in the title"
+        },
+        {
+            "id": "panelText",
+            "displayName": "Panel Text",
+            "description": "Main text"
+        }
+    ]
+}
+{% endmanifest %}
+
+<div class="govuk-panel govuk-panel--confirmation">
+  <h1 class="govuk-panel__title">
+    {{ panelTitle | default: "Panel Title"}}
+  </h1>
+  <div class="govuk-panel__body">
+    {{ panelText | default: "Panel Text"}}
+  </div>
+</div>

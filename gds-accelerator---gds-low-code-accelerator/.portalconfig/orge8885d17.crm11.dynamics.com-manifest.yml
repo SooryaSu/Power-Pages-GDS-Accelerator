@@ -332,7 +332,7 @@ adx_webfile:
   IsDeleted: false
 - RecordId: 24039e98-b4f3-15ab-55d4-e360b13b34b3
   DisplayName: GREY (1)
-  CheckSum: 0e9a998d4bd4b88f6af295fd6bfaafe2be57d28ad83a0fbf25405ec71711e5d6
+  CheckSum: 48191fa9d1f886840302f2f58b30905d35050398ce89f633474942d5e589f671
   IsDeleted: false
 - RecordId: 3118bf5d-82f8-4318-8830-2e3f63c73302
   DisplayName: Logo-sm-64.png
@@ -344,7 +344,7 @@ adx_webfile:
   IsDeleted: false
 - RecordId: 4fb037d5-4fa9-48e4-96d6-0be7f8905c97
   DisplayName: portalbasictheme.css
-  CheckSum: 7c25708de6605ada568542ca2a4367d7e1d38e4ddd688b33b9f7f885c5166fd4
+  CheckSum: f17bc22b85d61ba569121a2b721b7f9954980c20796af47eb15f34e454f3c6bd
   IsDeleted: false
 - RecordId: 65242489-9a7a-4ae1-b970-72a7b7b92aff
   DisplayName: govuk-icon-512.png
@@ -467,7 +467,7 @@ adx_webpage:
   IsDeleted: false
 - RecordId: 9aa3ea31-45be-4217-8629-ed761d809f60
   DisplayName: Home
-  CheckSum: 4ff4c198c6010e953f32f95f80ec32b0b3b5d2623bdd8ccdd866af6041ba876f
+  CheckSum: e440c2794320775913e0294fb12861a1343c8f414d7e9fcfcb33b5d48ae6bded
   IsDeleted: false
 - RecordId: a972c0df-0065-4aba-8183-3791d874dceb
   DisplayName: Page Not Found
@@ -561,6 +561,10 @@ adx_webtemplate:
   DisplayName: Search Results
   CheckSum: 4fd252fe9d3cbe007dc3868c79c61c99afce78efe824637689f16a6da2d7f666
   IsDeleted: false
+- RecordId: 11570eed-e3f8-ef11-bae2-6045bd0b386a
+  DisplayName: GDS Panel
+  CheckSum: 9627766b203ce9f500933eeeff58006279742bdfab88ea67192db0602776a857
+  IsDeleted: false
 - RecordId: 287d5104-d88b-4ce0-969a-82a6923c7c08
   DisplayName: Page Copy
   CheckSum: 8de67bba604f17f93cf5bf87fc49d226dbd9628ce35332fde3fcfc541ed2989f
@@ -573,17 +577,37 @@ adx_webtemplate:
   DisplayName: Page Header
   CheckSum: 5f7fca3019ded632a7020c5dbb756045022040679fea528d04c01cc310a3c698
   IsDeleted: false
+- RecordId: 4cb38de3-f6f8-ef11-bae2-6045bd0b386a
+  DisplayName: GDS Warning
+  CheckSum: 1e1071c58038ee7cb86bf1d0cccf80b487eb5ae80a728310f0077f948007de7e
+  IsDeleted: false
 - RecordId: 4d1bc9a9-1d61-456a-81cb-1dfce089d98d
   DisplayName: Layout 2 Column Wide Left
   CheckSum: 876f4ec33b816de98bfcb0020b4cf80d01c38b3dbaa947a317bdbbe9eff74243
+  IsDeleted: false
+- RecordId: 4f95dbdb-e1f8-ef11-bae2-6045bd0b386a
+  DisplayName: GDS Button
+  CheckSum: eab38ffeb99d06828a6c7cd7e9acbdfc9fbf016f0c739228403c55af15539127
   IsDeleted: false
 - RecordId: 52da8e7c-6902-4dbd-b442-7ebc4b1a5777
   DisplayName: Power Virtual Agents
   CheckSum: eba03c1b6f0c081170b62956a47d3bc5e4751c25d22787f401cde1fba1de6a5b
   IsDeleted: false
+- RecordId: 569f7d76-e3f8-ef11-bae2-6045bd0b386a
+  DisplayName: GDS Notification Banner
+  CheckSum: f38f2701fbe342ed9b1990f8f7b38540490c21216de4870eb6ad1440c51b36f3
+  IsDeleted: false
 - RecordId: 61e9fdfd-464c-4f87-b866-518f87927328
   DisplayName: Header
-  CheckSum: b1fc6e688c1430548259d545f212d4ce40b7e32f25f88fc9b8070f1bc4bc2fcc
+  CheckSum: ab1740d46e7640dc6d6d2ef734763e6a7cfb14c811a40b85128a58155bdcd13c
+  IsDeleted: false
+- RecordId: 766f81c7-e2f8-ef11-bae2-6045bd0b386a
+  DisplayName: GDS Inset
+  CheckSum: 490531aeba3c3ae378494d5d4a7bd1f5a000dc4af1a24dcbdc0f891b1be2b9f5
+  IsDeleted: false
+- RecordId: 9d0aad7f-f6f8-ef11-bae2-6045bd0b386a
+  DisplayName: GDS Details
+  CheckSum: e89bce526658aad8ead4eb3781c1b2f689f16534ca360c316cdbbeb11de116fe
   IsDeleted: false
 - RecordId: b3a76451-3042-45fc-b18d-e28b257f3a31
   DisplayName: Breadcrumbs
@@ -626,14 +650,6 @@ annotation:
   DisplayName: govuk-opengraph-image.png
   CheckSum: a64e553306ca82f32e0ada6355d389da2d7a4db3d2a5c00ac18c10b4464a1f32
   IsDeleted: false
-- RecordId: 69e7e236-20df-ef11-8ee9-0022481b8b9b
-  DisplayName: portalbasictheme.css
-  CheckSum: c71d2f194ed03530c716f955c8809bd3b37b2a7904b332173bec5c05c0e4b0ae
-  IsDeleted: false
-- RecordId: 6ae7e236-20df-ef11-8ee9-0022481b8b9b
-  DisplayName: GREY%20(1)
-  CheckSum: c725f9969afb0420076de60427fb1a61e544eee49c7800c7fe37dadebfb5a304
-  IsDeleted: false
 - RecordId: 76d5cb38-f7de-ef11-8ee9-0022481b8b9b
   DisplayName: Cat-PC.png
   CheckSum: a512d75d62e8b8d8606fb624092a33b5e473af205bc06e7ceb9d4d88429c3ceb
@@ -649,6 +665,14 @@ annotation:
 - RecordId: 7cd5cb38-f7de-ef11-8ee9-0022481b8b9b
   DisplayName: Logo-sm-64.png
   CheckSum: dfeadafb4d3537b92f2c42b5127a6e65e79017bcf59447baf0db19ee87efad21
+  IsDeleted: false
+- RecordId: 7df7071a-edf8-ef11-bae2-6045bd0b386a
+  DisplayName: GREY%20(1)
+  CheckSum: 8843b0f6d71e72e66540d84f27b422a4d5facbc8ca8e32ccdbdf261d6af8300e
+  IsDeleted: false
+- RecordId: 7ef7071a-edf8-ef11-bae2-6045bd0b386a
+  DisplayName: portalbasictheme.css
+  CheckSum: 42351531c22c118e502ccac02d979092690792a4929168e72a4110edb763a8a0
   IsDeleted: false
 - RecordId: 80d5cb38-f7de-ef11-8ee9-0022481b8b9b
   DisplayName: bootstrap.min.css

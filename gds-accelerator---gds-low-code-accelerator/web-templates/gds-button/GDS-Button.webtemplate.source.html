@@ -1,0 +1,18 @@
+{% manifest %}
+{
+    "type": "Functional",
+    "displayName": "Button",
+    "description": "A button with a GDS class applied",
+    "params": [
+        {
+            "id": "buttonText",
+            "displayName": "Button Text",
+            "description": "Text displayed on the button"
+        }
+    ]
+}
+{% endmanifest %}
+
+<button type="submit" class="govuk-button" data-module="govuk-button">
+    {{ buttonText | default: "Button" }}
+</button>

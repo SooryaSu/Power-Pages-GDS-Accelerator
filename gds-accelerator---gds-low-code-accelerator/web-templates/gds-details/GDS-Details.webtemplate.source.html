@@ -1,0 +1,30 @@
+{% manifest %}
+{
+    "type": "Functional",
+    "displayName": "Details",
+    "description": "Make a page easier to scan by letting users reveal more detailed information only if they need it.",
+    "params": [
+        {
+            "id": "summaryText",
+            "displayName": "Summary Text",
+            "description": "Text displayed as summary"
+        },
+        {
+            "id": "detailsText",
+            "displayName": "Details Text",
+            "description": "Main text"
+        }
+    ]
+}
+{% endmanifest %}
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      {{ summaryText | default: "Summary Text" }}
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    {{ detailsText | default: "Summary Text" }}
+  </div>
+</details>

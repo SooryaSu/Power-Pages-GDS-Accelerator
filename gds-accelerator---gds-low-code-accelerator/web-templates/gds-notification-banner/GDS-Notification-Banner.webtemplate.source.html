@@ -1,0 +1,32 @@
+{% manifest %}
+{
+    "type": "Functional",
+    "displayName": "Notification Banner",
+    "description": "A notification banner with a GDS class applied",
+    "params": [
+       {
+            "id": "notificationHeader",
+            "displayName": "Notification Header",
+            "description": "Header displayed in notification"
+        },
+        {
+            "id": "notificationText",
+            "displayName": "Notification Text",
+            "description": "Text displayed in notification"
+        }
+    ]
+}
+{% endmanifest %}
+
+<div class="govuk-notification-banner" role="region" aria-labelledby="govuk-notification-banner-title" data-module="govuk-notification-banner">
+  <div class="govuk-notification-banner__header">
+    <h2 class="govuk-notification-banner__title" id="govuk-notification-banner-title">
+      {{ notificationHeader | default: "Important"}}
+    </h2>
+  </div>
+  <div class="govuk-notification-banner__content">
+    <p class="govuk-notification-banner__heading">
+      {{ notificationText | default: "Notification Text"}}
+    </p>
+  </div>
+</div>

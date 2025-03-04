@@ -110,7 +110,7 @@ legend {
   color: #000000; }
 
 footer {
-  color: #FFFFFF;
+  color: #000000;
   font-family: Arial;
   font-weight: 400;
   font-size: 16px; }
@@ -543,7 +543,7 @@ h2 p {
   font-family: Arial;
   font-weight: 400;
   font-size: 36px;
-  color: #f7f5f5; }
+  color: #000000; }
 
 h3,
 .h3,
@@ -553,7 +553,7 @@ h3,
   font-family: Arial;
   font-weight: 400;
   font-size: 24px;
-  color: #f7f5f5; }
+  color: #000000; }
 
 h4,
 .h4,
@@ -562,7 +562,7 @@ h4,
   font-family: Arial;
   font-weight: 700;
   font-size: 24px;
-  color: #f7f5f5; }
+  color: #000000; }
 
 h5,
 .h5 {
@@ -580,7 +580,7 @@ p.form-text span {
   font-family: Arial;
   font-weight: 400;
   font-size: 20px;
-  color: #f7f5f5; }
+  color: #000000; }
 
 .p2 {
   font-family: Arial;
@@ -668,7 +668,7 @@ h1.siteTitle,
 p.smallText {
   display: inline;
   vertical-align: middle;
-  color: #FFFFFF;
+  color: #000000;
   font-family: Arial;
   font-weight: 400;
   font-size: 16px; }

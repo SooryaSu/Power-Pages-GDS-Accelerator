@@ -1,0 +1,18 @@
+{% manifest %}
+{
+    "type": "Functional",
+    "displayName": "Inset Text",
+    "description": "GDS Inset Text",
+    "params": [
+        {
+            "id": "insetText",
+            "displayName": "Inset Text",
+            "description": "Text displayed in inset"
+        }
+    ]
+}
+{% endmanifest %}
+
+<div class="govuk-inset-text">
+  {{ insetText | default: "Inset Text"}}
+</div>

@@ -23,7 +23,7 @@ $headerMenuTextColor: $color8;
 $headerMenuHoverColor: $color4;
 $bodyBackground: $color7;
 $footerColor: $color9;
-$footerTextColor: $color7;
+$footerTextColor: $color1;
 $footerTextFont: Arial;
 $footerTextWeight: 400;
 $footerTextSize: 16;
@@ -46,17 +46,17 @@ $h1color: $color1;
 $h2font: Arial;
 $h2weight: 400;
 $h2size: 36;
-$h2color: $color8;
+$h2color: $color1;
 
 $h3font: Arial;
 $h3weight: 400;
 $h3size: 24;
-$h3color: $color8;
+$h3color: $color1;
 
 $h4font: Arial;
 $h4weight: 700;
 $h4size: 24;
-$h4color: $color8;
+$h4color: $color1;
 
 $h5font: Arial;
 $h5weight: 700;
@@ -66,7 +66,7 @@ $h5color: $color8;
 $p1font: Arial;
 $p1weight: 400;
 $p1size: 20;
-$p1color: $color8;
+$p1color: $color1;
 
 $p2font: Arial;
 $p2weight: 400;
