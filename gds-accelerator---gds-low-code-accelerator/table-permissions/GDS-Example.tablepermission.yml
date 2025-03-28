@@ -1,0 +1,17 @@
+adx_accountrelationship: 
+adx_append: false
+adx_appendto: false
+adx_childTablePermissions: []
+adx_contactrelationship: 
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: contact
+adx_entityname: GDS Example
+adx_entitypermission_webrole:
+- 2a44f10f-79a8-47a5-b4b2-d549a84495ef
+adx_entitypermissionid: 720b4d06-1b42-429a-be1f-899000ed151e
+adx_parententitypermission: 
+adx_parentrelationship: 
+adx_read: false
+adx_scope: 756150000
+adx_write: false

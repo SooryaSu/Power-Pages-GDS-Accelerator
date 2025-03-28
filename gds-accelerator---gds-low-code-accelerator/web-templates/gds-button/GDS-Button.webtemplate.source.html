@@ -8,11 +8,16 @@
             "id": "buttonText",
             "displayName": "Button Text",
             "description": "Text displayed on the button"
+        },
+        {
+            "id": "buttonURL",
+            "displayName": "Button URL",
+            "description": "URL the button will lead to"
         }
     ]
 }
 {% endmanifest %}
 
-<button type="submit" class="govuk-button" data-module="govuk-button">
+<button type="submit" class="govuk-button" data-module="govuk-button" onclick="window.location.href='/{{ buttonURL | default: "#" }}'">
     {{ buttonText | default: "Button" }}
 </button>

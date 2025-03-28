@@ -68,6 +68,9 @@
   adx_value: False
 - adx_name: Authentication/OpenAuth/LinkedIn/ConsumerKey
   adx_sitesettingid: 4ff9f1a8-375c-4799-b9ff-3393ddaeba9c
+- adx_name: Forms/a9bc8eec-bc67-4ce7-a41f-a29ed8f33558/EnableGenAIFormsAssistant
+  adx_sitesettingid: 5234c462-0db1-44ba-b214-98497138a0bb
+  adx_value: true
 - adx_name: Profile/ForceSignUp
   adx_sitesettingid: 52e57272-9361-457e-b246-d089add89ad7
   adx_value: False

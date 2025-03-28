@@ -13,13 +13,13 @@ $color6: #5C5A58;
 $color7: #FFFFFF;
 $color8: #f7f5f5;
 $color9: #191817;
-$color10: ;
-$color11: ;
-$color12: ;
+$color10: #00823b;
+$color11: #003618;
+$color12: #0000FF;
 
 $primaryColor: $color2;
 $headerColor: $color1;
-$headerMenuTextColor: $color8;
+$headerMenuTextColor: $color1;
 $headerMenuHoverColor: $color4;
 $bodyBackground: $color7;
 $footerColor: $color9;
@@ -39,29 +39,29 @@ $siteTitleweight: 400;
 $siteTitlesize: 30;
 
 $h1font: Arial;
-$h1weight: 400;
-$h1size: 40;
+$h1weight: 700;
+$h1size: 36;
 $h1color: $color1;
 
 $h2font: Arial;
-$h2weight: 400;
-$h2size: 36;
+$h2weight: 700;
+$h2size: 24;
 $h2color: $color1;
 
 $h3font: Arial;
-$h3weight: 400;
-$h3size: 24;
+$h3weight: 700;
+$h3size: 20;
 $h3color: $color1;
 
 $h4font: Arial;
-$h4weight: 700;
-$h4size: 24;
-$h4color: $color1;
+$h4weight: 400;
+$h4size: 20;
+$h4color: $color6;
 
 $h5font: Arial;
-$h5weight: 700;
+$h5weight: 400;
 $h5size: 14;
-$h5color: $color8;
+$h5color: $color6;
 
 $p1font: Arial;
 $p1weight: 400;
@@ -75,21 +75,21 @@ $p2color: $color8;
 
 $afont: Arial;
 $aweight: 400;
-$asize: 14;
-$atextcolor: $color4;
-$astyle: Plain text;
+$asize: 20;
+$atextcolor: $color12;
+$astyle: Underline;
 $aonhoverstyle: Underline;
 $aonhovertextcolor: $color9;
 
 $button1style: Filled;
 $button1radius: 2;
 $button1font: Arial;
-$button1weight: 600;
-$button1size: 14;
-$button1fillcolor: $color4;
+$button1weight: 400;
+$button1size: 18;
+$button1fillcolor: $color10;
 $button1textcolor: $color7;
 $button1onhoverstyle: Filled;
-$button1onhoverfillcolor: $color9;
+$button1onhoverfillcolor: $color11;
 $button1onhovertextcolor: $color7;
 
 $button2style: Outline;

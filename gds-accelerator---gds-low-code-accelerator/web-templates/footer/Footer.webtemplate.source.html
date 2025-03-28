@@ -1,10 +1,10 @@
-<footer class="govuk-footer app-footer">
+<footer class="govuk-footer app-footer" style="font-size: 16px !important;">
   <style>
     .govuk-footer__copyright-logo {
       background-image: url('/govuk-crest.svg') !important;
     }
   </style>
-  <div class="govuk-width-container app-width-container">
+  <div class="govuk-width-container app-width-container" style="font-size: 16px !important;">
     <div class="govuk-footer__meta">
       <div class="govuk-footer__meta-item govuk-footer__meta-item--grow">
         <h2 class="govuk-visually-hidden">Support links</h2>
@@ -80,3 +80,50 @@
     }
   };
  </script>
+
+<script>
+
+  //Add GDS class to buttons on forms
+  document.querySelectorAll('input[type="button"]').forEach(function(button) {  
+    button.className = ''; // Remove existing classes
+    button.classList.add('govuk-button'); // Add the "govuk-button" class
+    });
+
+  //Used to ensure styling is correctly applied to radio buttons in forms
+  document.addEventListener('DOMContentLoaded', function() {
+    const style = document.createElement('style');
+    style.innerHTML = `
+        .multiple-choice {
+            display: inline-block;
+            margin-right: 10px; 
+        }
+
+        .multiple-choice input,
+        .multiple-choice label {
+            display: inline-block;
+            vertical-align: middle;
+        }
+    `;
+    
+    document.head.appendChild(style);
+
+    function wrapInputsInDiv() {
+        const inputs = document.querySelectorAll('input[type="radio"]');
+        
+        inputs.forEach(input => {
+            const div = document.createElement('div');
+            div.className = 'multiple-choice';
+            
+            const label = document.querySelector(`label[for="${input.id}"]`);
+            
+            input.insertAdjacentElement('beforebegin', div);
+            
+            div.appendChild(input);
+            div.appendChild(label);
+        });
+    }
+
+    // Call the function to wrap the inputs and labels
+    wrapInputsInDiv();
+});
+  </script>

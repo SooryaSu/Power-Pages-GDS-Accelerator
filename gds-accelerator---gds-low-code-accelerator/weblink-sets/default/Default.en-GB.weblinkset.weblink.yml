@@ -54,6 +54,41 @@
   adx_weblinkid: 755dec25-4c5e-473e-8f40-538f2fc8bc6f
   adx_weblinksetid: 39c88fb9-3ffd-49e9-a2e9-44444b38c487
 - adx_displayimageonly: false
+  adx_displayorder: 9
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_name: API Example
+  adx_openinnewwindow: false
+  adx_pageid: 3d68f92f-d37d-dd78-41ce-ecce985bc51f
+  adx_publishingstateid: e36a2ee5-739e-491b-9db5-98d8d516f636
+  adx_robotsfollowlink: true
+  adx_weblinkid: 8fbeea09-ec69-4fa8-d664-85e06e26a1f0
+  adx_weblinksetid: 39c88fb9-3ffd-49e9-a2e9-44444b38c487
+- adx_displayimageonly: false
+  adx_displayorder: 10
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_name: Test-deleted
+  adx_openinnewwindow: false
+  adx_pageid: 4a4f8d7d-7624-f3d0-719c-8c7a9601b391
+  adx_publishingstateid: e36a2ee5-739e-491b-9db5-98d8d516f636
+  adx_robotsfollowlink: true
+  adx_weblinkid: a93b3fc1-2a9b-6539-597f-bd98b0d72bfe
+  adx_weblinksetid: 39c88fb9-3ffd-49e9-a2e9-44444b38c487
+  statecode: 1
+  statuscode: 2
+- adx_displayimageonly: false
+  adx_displayorder: 7
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_name: Form Example
+  adx_openinnewwindow: false
+  adx_pageid: 0be1e12f-eabb-82c9-9baf-3a08f1cc8dff
+  adx_publishingstateid: e36a2ee5-739e-491b-9db5-98d8d516f636
+  adx_robotsfollowlink: true
+  adx_weblinkid: aee0be7c-6b0f-f8a0-6029-d1b19a4db207
+  adx_weblinksetid: 39c88fb9-3ffd-49e9-a2e9-44444b38c487
+- adx_displayimageonly: false
   adx_displayorder: 3
   adx_displaypagechildlinks: false
   adx_displaypagevalidation: false
@@ -63,4 +98,15 @@
   adx_publishingstateid: e36a2ee5-739e-491b-9db5-98d8d516f636
   adx_robotsfollowlink: true
   adx_weblinkid: bdf08d95-fdd2-2836-152d-8e1afc5a1667
+  adx_weblinksetid: 39c88fb9-3ffd-49e9-a2e9-44444b38c487
+- adx_displayimageonly: false
+  adx_displayorder: 8
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_name: List Example
+  adx_openinnewwindow: false
+  adx_pageid: 23f76b73-7162-9f13-50ab-ba94e932a703
+  adx_publishingstateid: e36a2ee5-739e-491b-9db5-98d8d516f636
+  adx_robotsfollowlink: true
+  adx_weblinkid: d80d1b86-0913-b7d1-238d-53f73a753177
   adx_weblinksetid: 39c88fb9-3ffd-49e9-a2e9-44444b38c487

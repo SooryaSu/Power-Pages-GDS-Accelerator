@@ -1,0 +1,59 @@
+- adx_entityform: a177fa65-35b5-4f06-af51-8bd031e585c4
+  adx_entityformmetadataid: 7d1d37ff-6619-4834-b709-c34ed98a0397
+  adx_label: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": "<br>"
+      }
+    ]
+  adx_name: GDS Example  tab_2_section_1
+  adx_sectionname: tab_2_section_1
+  adx_type: 100000001
+  adx_webformstep: a177fa65-35b5-4f06-af51-8bd031e585c4
+- adx_entityform: a177fa65-35b5-4f06-af51-8bd031e585c4
+  adx_entityformmetadataid: 851f4304-ce1d-43c5-b8d7-bbf3cede9d34
+  adx_filecontent: 
+  adx_label: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": "​Example​<br id=\"ie4t1v\">"
+      }
+    ]
+  adx_name: GDS Example  tab_2
+  adx_tabname: tab_2
+  adx_type: 100000002
+  adx_webformstep: a177fa65-35b5-4f06-af51-8bd031e585c4
+- adx_adddescription: false
+  adx_attributelogicalname: donotphone
+  adx_controlstyle: 100000001
+  adx_cssclass: inline
+  adx_descriptionposition: 100000000
+  adx_entityform: a177fa65-35b5-4f06-af51-8bd031e585c4
+  adx_entityformforcreate: a177fa65-35b5-4f06-af51-8bd031e585c4
+  adx_entityformmetadataid: b46ca62f-62fe-ef11-bae3-6045bd0b386a
+  adx_fieldisrequired: false
+  adx_groupname: radio-group
+  adx_ignoredefaultvalue: false
+  adx_name: GDS Example  donotphone
+  adx_randomizeoptionsetvalues: false
+  adx_setvalueonsave: false
+  adx_type: 100000000
+  adx_useattributedescriptionproperty: true
+- adx_adddescription: false
+  adx_attributelogicalname: donotemail
+  adx_controlstyle: 100000001
+  adx_cssclass: inline
+  adx_descriptionposition: 100000000
+  adx_entityform: a177fa65-35b5-4f06-af51-8bd031e585c4
+  adx_entityformforcreate: a177fa65-35b5-4f06-af51-8bd031e585c4
+  adx_entityformmetadataid: e617b207-62fe-ef11-bae3-6045bd0b386a
+  adx_fieldisrequired: false
+  adx_groupname: radio-group
+  adx_ignoredefaultvalue: false
+  adx_name: GDS Example  donotemail
+  adx_randomizeoptionsetvalues: false
+  adx_setvalueonsave: false
+  adx_type: 100000000
+  adx_useattributedescriptionproperty: true
