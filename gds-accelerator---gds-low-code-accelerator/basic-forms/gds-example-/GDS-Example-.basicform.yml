@@ -8,13 +8,13 @@ adx_attachfilelabel: >-
 adx_attachfilemaxsize: 
 adx_attachfilestoragelocation: 756150000
 adx_captcharequired: false
+adx_containername: ''
 adx_entityformid: a177fa65-35b5-4f06-af51-8bd031e585c4
 adx_entityFormMetadatas:
 - []
 - []
-- &o0 []
 - []
-- *o0
+- []
 adx_entityname: contact
 adx_entitypermissionsenabled: true
 adx_entitysourcetype: 
@@ -26,10 +26,10 @@ adx_lcid: 1033
 adx_maximumnooffiles: 5
 adx_mode: 100000000
 adx_name: 'GDS Example '
-adx_onsuccess: 756150000
+adx_onsuccess: 756150001
 adx_recordidquerystringparametername: 
 adx_redirecturl: 
-adx_redirectwebpage: 
+adx_redirectwebpage: 23f76b73-7162-9f13-50ab-ba94e932a703
 adx_settings: >-
   {
     "Type": "FormActionMetadata",
@@ -233,6 +233,7 @@ adx_settings: >-
     }
   }
 adx_showcaptchaforauthenticatedusers: false
+adx_storageaccountname: ''
 adx_successmessage: >-
   [
     {

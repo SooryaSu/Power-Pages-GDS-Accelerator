@@ -2,6 +2,7 @@ adx_displayorder: 7
 adx_enablerating: false
 adx_enabletracking: false
 adx_excludefromsearch: false
+adx_feedbackpolicy: 756150000
 adx_filecontent: 
 adx_hiddenfromsitemap: true
 adx_isroot: false
@@ -12,6 +13,6 @@ adx_partialurl: Form-Example
 adx_publishingstateid: e36a2ee5-739e-491b-9db5-98d8d516f636
 adx_rootwebpageid: 0be1e12f-eabb-82c9-9baf-3a08f1cc8dff
 adx_sharedpageconfiguration: false
-adx_title: Home (1)
+adx_title: Form Example
 adx_webpageid: 86b3d789-65db-632a-0e6b-e2f812438411
 adx_webpagelanguageid: da7da1fd-5cf3-4fc9-b830-c4245106d3bd

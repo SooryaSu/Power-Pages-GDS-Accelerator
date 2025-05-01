@@ -1,17 +1,15 @@
-adx_accountrelationship: 
 adx_append: false
 adx_appendto: false
 adx_childTablePermissions: []
-adx_contactrelationship: contact_customer_contacts
 adx_create: false
 adx_delete: false
 adx_entitylogicalname: contact
 adx_entityname: All Contacts
 adx_entitypermission_webrole:
 - 2a44f10f-79a8-47a5-b4b2-d549a84495ef
+- 2c576642-84e9-4afc-a8ba-42c3c1ff0747
+- f8cd118c-0e6a-4679-9d42-5c71dd2a1aa9
 adx_entitypermissionid: c1cfd6e9-de4f-45db-b37e-916678fb79be
-adx_parententitypermission: 
-adx_parentrelationship: 
 adx_read: true
-adx_scope: 756150001
+adx_scope: 756150000
 adx_write: false
