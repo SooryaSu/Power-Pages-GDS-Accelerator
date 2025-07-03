@@ -19,7 +19,7 @@ Refer to https://design-system.service.gov.uk/ for further information.
    - pac auth create --url https://your-environment-url
 
 4. **Import the Site**
-- pac paportal import --path ./path-to-exported-files
+- pac paportal upload --path ./path-to-exported-files
 
 4. **Verify the Import**
 - Navigate to your Power Platform environment.
