@@ -15,11 +15,11 @@ Refer to https://design-system.service.gov.uk/ for further information.
    - cd your-repo-directory
 
 2. **Authenticate with Power Platform**
-   - Find the [environment URL](https://learn.microsoft.com/en-us/power-platform/admin/edit-properties-environment) for your destination
-   - pac auth create --url https://your-environment-url
+   - Find the [environment ID](https://learn.microsoft.com/en-us/power-platform/admin/edit-properties-environment) for your destination
+   - pac auth create --environment  [environment ID]
 
 4. **Import the Site**
-- pac paportal upload --path ./path-to-exported-files
+- pac paportal upload --path ./path-to-exported-files --modelVersion 2
 
 4. **Verify the Import**
 - Navigate to your Power Platform environment.
