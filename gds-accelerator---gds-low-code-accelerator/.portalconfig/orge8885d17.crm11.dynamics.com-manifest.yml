@@ -73,7 +73,7 @@ adx_entityformmetadata:
 adx_entitylist:
 - RecordId: beddc8cb-1ec7-4b46-9914-2fbf20447873
   DisplayName: All Contacts
-  CheckSum: 2db486ebc46b746db4b7c262dcfd7f5b9eed0eee9a1f812d70a1f0f8d2d65fa9
+  CheckSum: 85b7fbcd8f0df7ff671dfd10ae0b30322393a400d4e6802928ecb7623489a603
   IsDeleted: false
 adx_entitypermission:
 - RecordId: 3d5562b4-20df-4b84-b1bd-08886bc9ada2
@@ -109,6 +109,14 @@ adx_pagetemplate:
 - RecordId: 260d24c7-2ae1-4a8b-b15f-2f5618f46246
   DisplayName: Search
   CheckSum: 7160b15d3ed49c3191ae724641115b8e209dabf9cb825996d86e78035c1f6cb3
+  IsDeleted: false
+- RecordId: 43c6d128-63a8-4804-b3e7-5e076c761327
+  DisplayName: AI Search PageTemplate
+  CheckSum: c90ebd2ffd3dab1f99074bcc5183345d9410e966fba638bd2b6df4fa36394d3a
+  IsDeleted: false
+- RecordId: 823da5c4-4271-4cf4-804a-f7870b7fe5cf
+  DisplayName: AI Search PageTemplate
+  CheckSum: fb81e443d5825a092d402a6ee7c0c20979cabd169ac3cc6194837c054415422e
   IsDeleted: false
 - RecordId: 8e3258c8-0d1a-4341-be95-f028ab4cfca4
   DisplayName: Profile
@@ -480,7 +488,7 @@ adx_weblinkset:
 adx_webpage:
 - RecordId: 0038b7bd-3221-77c2-7107-7851739ea38c
   DisplayName: API Example
-  CheckSum: bdb32f23024b214443cd9a48d8d590979edc1dfa26167b97727b9aa43cdc0fb6
+  CheckSum: e7f0cca8f9d1d1a3b4cbe4f677057a4dc7a6adac2c0f1252dca480c5f5e44f58
   IsDeleted: false
 - RecordId: 07df89b0-08d3-4c1d-bb6a-034406361eba
   DisplayName: Profile
@@ -544,15 +552,15 @@ adx_webpage:
   IsDeleted: false
 - RecordId: 771c1055-6aca-e3c5-3fa3-5db06f80b7bc
   DisplayName: List Example
-  CheckSum: 3825c06d55066615f6c3bcadeda6ca3f094e0256d8d882291546cd54ee661462
+  CheckSum: da561bdced4e9cf6f7e0b809b2984ad3f79f899e5210ac6750514b587b530687
   IsDeleted: false
 - RecordId: 86b3d789-65db-632a-0e6b-e2f812438411
   DisplayName: Form Example
-  CheckSum: 05934bd8a4c19fd229ba8533fe080bb4b07e75e6a56f1220cf726848308ce8a4
+  CheckSum: 8332a77a334dc371a7fc9318236b1eb7d72e4b84bb3b1278923adc697c4ec67b
   IsDeleted: false
 - RecordId: 9aa3ea31-45be-4217-8629-ed761d809f60
   DisplayName: Home
-  CheckSum: dcc5b6a6d946e5db842bde3b9ee12c649a1e0bb6cc411fa0f752eec74b3afb88
+  CheckSum: 660304658c615362f13e1d4a78dfa4d2c2b287630cd6a2812176df8f72215a37
   IsDeleted: false
 - RecordId: a972c0df-0065-4aba-8183-3791d874dceb
   DisplayName: Page Not Found
@@ -700,7 +708,7 @@ adx_webtemplate:
   IsDeleted: false
 - RecordId: c7e464cb-a263-4d11-b819-73de81aa1333
   DisplayName: Footer
-  CheckSum: 432d93ba7df3a9b8322c99c5047fb67721a74753bb351d224ae20c42147f4301
+  CheckSum: 4496874f4586b298c489d06ebe746c9d5d850bbff140bdf41498cb57c9c401b7
   IsDeleted: false
 - RecordId: d2db45d6-eb7a-4c10-bc1b-f26fee38eb30
   DisplayName: Pages Breadcrumb
