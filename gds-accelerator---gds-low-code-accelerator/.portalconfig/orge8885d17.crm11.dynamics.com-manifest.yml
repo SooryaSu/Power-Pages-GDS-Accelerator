@@ -552,7 +552,7 @@ adx_webpage:
   IsDeleted: false
 - RecordId: 771c1055-6aca-e3c5-3fa3-5db06f80b7bc
   DisplayName: List Example
-  CheckSum: da561bdced4e9cf6f7e0b809b2984ad3f79f899e5210ac6750514b587b530687
+  CheckSum: edbdee08fb9f24e1fe6bf186257b35f46326b2ed772cb859ef4e4f64e960d38e
   IsDeleted: false
 - RecordId: 86b3d789-65db-632a-0e6b-e2f812438411
   DisplayName: Form Example
@@ -708,7 +708,7 @@ adx_webtemplate:
   IsDeleted: false
 - RecordId: c7e464cb-a263-4d11-b819-73de81aa1333
   DisplayName: Footer
-  CheckSum: 4496874f4586b298c489d06ebe746c9d5d850bbff140bdf41498cb57c9c401b7
+  CheckSum: cca4a13bc3414133f6296f56c6431e6d2d6cd20debff877081282cf8e31016ee
   IsDeleted: false
 - RecordId: d2db45d6-eb7a-4c10-bc1b-f26fee38eb30
   DisplayName: Pages Breadcrumb
